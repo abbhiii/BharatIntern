@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,600&display=swap" rel="stylesheet">
-  <title>Sanaya Mahajan-Portfolio</title>
+  <title>Abhinav-Portfolio</title>
 </head>
 <body>
   <header>
@@ -185,14 +185,6 @@
         </div>
         <h3>Netflix Clone</h3>
       </div>
-      <div class="project-item" id="aet-logo">
-        <div class="project-content">
-          <img src="./images/aet.png" alt="AET Club Logo">
-          <p>A graphic design project featuring a logo created for the AET Club.</p>
-          <a href="https://www.behance.net/sanayamahajan/projects" target="_blank">View Project</a>
-        </div>
-        <h3>AET Club Logo</h3>
-      </div>
     </div>
   </section>
   <hr>
@@ -202,11 +194,11 @@
       <div class="contact-info">
         <div class="contact-item">
           <i class="fas fa-envelope"></i>
-          <p>Email: monagupta9086287092@gmail.com</p>
+          <p>Email: abbhi.i800@gmail.com</p>
         </div>
         <div class="contact-item">
           <i class="fas fa-phone"></i>
-          <p>Phone: +91 9086287092</p>
+          <p>Phone: +91 6200093295</p>
         </div>
         <div class="contact-item">
           <i class="fas fa-map-marker-alt"></i>
@@ -228,23 +220,17 @@
   <hr>
   <footer>
     <div class="social-icons">
-      <a href="https://github.com/sanayamahajan-23" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/abbhiii" target="_blank" rel="noopener noreferrer">
         <img src="./images/github.png" alt="GitHub"><p>GitHub</p>
       </a>
       <a href="https://www.hackerrank.com/abbhiii" target="_blank" rel="noopener noreferrer">
         <img src="./images/hackerrank.png" alt="HackerRank"><p>HackerRank</p>
       </a>
-      <a href="https://www.linkedin.com/in/sanaya-mahajan-38b421256/" target="_blank" rel="noopener noreferrer">
-        <img src="./images/linkedin.png" alt="LinkedIn"><p>LinkedIn</p>
-      </a>
-      <a href="mailto:monagupta9086287092@gmail.com">
+      <a href="mailto:abbhi.i800@gmail.com">
         <img src="./images/email.png" alt="Email"><p>Email</p>
       </a>
-      <a href="https://www.behance.net/sanayamahajan" target="_blank" rel="noopener noreferrer">
-        <img src="./images/behance.png" alt="Behance"><p>Behance</p>
-      </a>
     </div>
-    <p>&copy; 2023 Sanaya Portfolio. All rights reserved.</p>
+    <p>&copy; 2023 Abhinav Portfolio. All rights reserved.</p>
   </footer>
 </body>
 </html>
