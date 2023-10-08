@@ -12,7 +12,7 @@
 <body>
   <header>
     <nav>
-      <div class="left">Sanaya's Portfolio</div>
+      <div class="left">Abhinav's Portfolio</div>
       <div class="right">
         <ul>
          <li><a href="#home">Home</a></li>
@@ -27,7 +27,7 @@
   </header>
   <main>
     <section id="home" class="firstSec">
-      <div class="leftSec"> Hi, I'm <span class="colorchange">Sanaya Mahajan</span>,
+      <div class="leftSec"> Hi, I'm <span class="colorchange">Abhinav kumar</span>,
         <div class="profession">
           <span class="profession-change">passionate web developer</span>,
           <span class="profession-change">graphic designer</span>, and
@@ -49,7 +49,7 @@
             <img src="./images/background.png" alt="About Me Image">
           </div>
           <div class="about-me-text">
-            <p>I am 19 years old and a second year B.Tech CSE student. I am skilled in C, C++, Python. I am a real enthusiast for learning and exploring new things. I love painting and music and singing it too. I believe in providing my whole effort in all things. Apart from it, I am learning web development and graphic designing.</p>
+            <p>I am 19 years old and a second year B.Tech CSE student. I am skilled in C, C++, Python. I am a real enthusiast for learning and exploring new things. I believe in providing my whole effort in all things. Apart from it, I am learning web development.</p>
           </div>
         </div>
       </div>
@@ -231,7 +231,7 @@
       <a href="https://github.com/sanayamahajan-23" target="_blank" rel="noopener noreferrer">
         <img src="./images/github.png" alt="GitHub"><p>GitHub</p>
       </a>
-      <a href="https://www.hackerrank.com/sanaya200504" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.hackerrank.com/abbhiii" target="_blank" rel="noopener noreferrer">
         <img src="./images/hackerrank.png" alt="HackerRank"><p>HackerRank</p>
       </a>
       <a href="https://www.linkedin.com/in/sanaya-mahajan-38b421256/" target="_blank" rel="noopener noreferrer">
